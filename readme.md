@@ -1,1 +1,1 @@
-# 公車動態資訊運用Firebase練習
+# 公車動態資訊運用Firebase實習
